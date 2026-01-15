@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Pushkar Shinde.
-- 👀 I’m interested in SLAM, Perception, Robotics.
-- 🌱 I’m currently learning Mechatronics and Robotics at New York University.
-- 💞️ I’m looking to collaborate on Robot Perception, Navigation, Path planning, Deep learnig
-- 📫 Reach out to me at pushkar.shinde@nyu.edu
+🤖 Robotics Software Engineer specializing in perception systems and autonomous navigation
 
-<!---
-Pushkar-05/Pushkar-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Tech Stack: Python | C++ | ROS2 | OpenCV | PyTorch | Linux | SLAM | Sensor Fusion
+
+📷 Currently: Building multi-camera perception systems for robot dogs @ AstroRobotics
+📍 Dallas, TX | MS Mechatronics & Robotics @ NYU Tandon
+
+🎤 Featured Speaker - Government of India, Ministry of Education (PIB)
+   Delivered session on ROS-2 & Gazebo at NIT Raipur
+
+💡 Interests: Computer Vision, LiDAR/RADAR processing, Embedded AI, Motion Planning
